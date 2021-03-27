@@ -27,11 +27,19 @@ Ele cria novas instancias de servidores caso necessário.
 É um serviço de armazenamento de objetos. Um repositório em nuvem.
 O S3 também é utilizado ao se criar um serviço de app **Elastic Beanstalk**, uma vez que precisamos subir o código fonte ou docker image para a AWS, e são nestes repositórios S3 que esses arquivos são armazenados.
 
+<br>
+
 ## Route 53
 É um serviço de registro de Domínios e configuração de DNS da AWS.
+
+<br>
 
 ## Elastic Container Registry
 Repositório de imagens Docker da AWS, semelhante ao Docker-HUB
 
+<br>
+
 ## Elastic MapReduce (Amazon EMR)
 Serviço de gerenciamento de Clusters para computação de Big Data.
+
+<br>
