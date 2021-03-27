@@ -18,4 +18,10 @@ AWS CodeCommit), basta seguir a orientação de CD do App [Aqui](https://console
 <br>
 
 ## Elastic Compute Cloud (EC2)
-É o serviço da AWS responsável por gerenciar e escalar aplicações. Ele cria novas instancias de servidores caso necessário.
+É o serviço da AWS responsável por gerenciar e escalar aplicações criadas através do **Elastic Beanstalk**.  
+Ele cria novas instancias de servidores caso necessário.
+
+<br>
+
+## Simple Storage Service (S3)
+É um serviço de armazenamento de objetos. Um repositório em nuvem.
