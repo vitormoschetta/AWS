@@ -28,5 +28,5 @@ Ele cria novas instancias de servidores caso necessário.
 O S3 também é utilizado ao se criar um serviço de app **Elastic Beanstalk**, uma vez que precisamos subir o código fonte ou docker image para a AWS, e são nestes repositórios S3 que esses arquivos são armazenados.
 
 ## Route 53
-É um serviço de DNS da AWS.
+É um serviço de registro de Domínios e configuraço de DNS da AWS.
 
