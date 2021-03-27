@@ -40,6 +40,8 @@ Repositório de imagens Docker da AWS, semelhante ao Docker-HUB
 <br>
 
 ## Elastic MapReduce (Amazon EMR)
-Serviço de gerenciamento de Clusters para computação de Big Data.
+Serviço de gerenciamento de Clusters para computação de Big Data.   
+Nele podemos usar Hadoop, Apache Spark, Hive, entre outras ferramentas de Big Data.  
+Utiliza os repositórios S3 para guardar os dados extraídos no processo de ETL.  
 
 <br>
