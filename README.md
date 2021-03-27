@@ -26,3 +26,7 @@ Ele cria novas instancias de servidores caso necessário.
 ## Simple Storage Service (S3)
 É um serviço de armazenamento de objetos. Um repositório em nuvem.
 O S3 também é utilizado ao se criar um serviço de app **Elastic Beanstalk**, uma vez que precisamos subir o código fonte ou docker image para a AWS, e são nestes repositórios S3 que esses arquivos são armazenados.
+
+## Route 53
+É um serviço de DNS da AWS.
+
